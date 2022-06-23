@@ -1,3 +1,7 @@
+Nama : Firda Aulia Rakhmah
+Kelas : 2B
+NIM : 21090119
+
 a = 90,72,65,100,63,72
     0   1  2  3   4  5
 
