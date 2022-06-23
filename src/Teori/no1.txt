@@ -1,3 +1,7 @@
+Nama : Firda Aulia Rakhmah
+Kelas : 2B
+NIM : 21090119
+
 1). Buat class method node insert & inorder seperti codingan yang lalu.
     private static Node insert(Node node, int key)
     {
